@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class Main {
+
+
+    // Merge sort
     public static int[] split(int[] arr) {
         int n = arr.length;
         if (n == 1)
